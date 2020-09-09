@@ -1,0 +1,18 @@
+body {
+  background-color: #cccccc;
+}
+
+#navbar {
+  background-color: #000000;
+  color: #cccccc;
+}
+
+#map {
+  height: 20rem;
+  width: 20rem;
+}
+
+#img {
+  height: 10rem;
+  width: 10rem;
+}
