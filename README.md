@@ -1,1 +1,3 @@
 # Oober
+
+#### Javascript app that uses google maps for booking rides. It's something like Uber...
